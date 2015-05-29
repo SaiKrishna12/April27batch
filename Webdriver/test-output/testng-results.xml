@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Newtours Test suite" duration-ms="46578" started-at="2015-05-27T04:57:29Z" finished-at="2015-05-27T04:58:15Z">
+    <groups>
+    </groups>
+    <test name="Login on Newtours" duration-ms="9965" started-at="2015-05-27T04:57:29Z" finished-at="2015-05-27T04:57:39Z">
+      <class name="day21.Login">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:day21.Login@67291453]" name="launchApp" is-config="true" duration-ms="8305" started-at="2015-05-26T21:57:29Z" finished-at="2015-05-26T21:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:day21.Login@67291453]" name="loginTest" duration-ms="1470" started-at="2015-05-26T21:57:37Z" finished-at="2015-05-26T21:57:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:day21.Login@67291453]" name="closeApp" is-config="true" duration-ms="180" started-at="2015-05-26T21:57:39Z" finished-at="2015-05-26T21:57:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- day21.Login -->
+    </test> <!-- Login on Newtours -->
+    <test name="Links on Newtours" duration-ms="36593" started-at="2015-05-27T04:57:39Z" finished-at="2015-05-27T04:58:15Z">
+      <class name="day21.Links">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:day21.Links@70d683f3]" name="launchApp" is-config="true" duration-ms="6229" started-at="2015-05-26T21:57:39Z" finished-at="2015-05-26T21:57:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="linkstest()[pri:0, instance:day21.Links@70d683f3]" name="linkstest" duration-ms="30175" started-at="2015-05-26T21:57:45Z" finished-at="2015-05-26T21:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkstest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:day21.Links@70d683f3]" name="closeApp" is-config="true" duration-ms="188" started-at="2015-05-26T21:58:15Z" finished-at="2015-05-26T21:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- day21.Links -->
+    </test> <!-- Links on Newtours -->
+  </suite> <!-- Newtours Test suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+package day19;
+
+public class DatdrivenTesting2 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
